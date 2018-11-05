@@ -55,7 +55,7 @@ img {
   width: 900px;
 
   display: grid;
-  grid-template-rows: repeat(12, var(--gridheight));
+  grid-template-rows: repeat(10, var(--gridheight));
   grid-template-columns: repeat(12, 8.333%);
 
   margin: 0 auto;
