@@ -426,3 +426,7 @@ footer {
 .extra-bits li {
   margin: 0 1rem;
 }
+
+audio {
+  display: none;
+}
